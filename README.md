@@ -38,10 +38,7 @@ I'm an Information Technology graduate based in **Kenya**, passionate about buil
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **transport-management-system** | **Transport Management System | github.com/jrayie/transport-management-system** | A web-based fleet management        system for Muranga County civil servants. Manages drivers, mechanics, and supervisors with repair request workflows, invoice      approval, and repair tracking. Built to reduce government vehicle downtime. | Django, Bootstrap, SQLite, HTML/CSS/JS |
-| **[Project Name 2]** | Brief 1-2 sentence description | Python, Flask |
-| **[Project Name 3]** | Brief 1-2 sentence description | HTML, CSS, JavaScript |
-| **[Project Name 4]** | Brief 1-2 sentence description | Python, Sockets |
+| **transport-management-system** | **Transport Management System | github.com/jrayie/transport-management-system | A web-based fleet management        system for Muranga County civil servants. Manages drivers, mechanics, and supervisors with repair request workflows, invoice      approval, and repair tracking. Built to reduce government vehicle downtime. | Django, Bootstrap, SQLite, HTML/CSS/JS |
 
 > 🔗 **Click on each project name above to view the full code and README.**
 
