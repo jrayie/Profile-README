@@ -15,7 +15,7 @@ I'm an Information Technology graduate based in **Kenya**, passionate about buil
 - 🌱 I'm currently Improving in: **Penetration Testing** (Kali Linux, Nmap, Burp Suite)
 - 💼 Open to: **Remote opportunities** in Python Development, IT Support, or Junior Security roles
 - 📫 How to reach me: **rayiejose@gmail.com**
-- 🌐 Connect on LinkedIn: **[linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)**
+- 🌐 Connect on LinkedIn: **[linkedin.com/in/yourusername](https://linkedin.com/in/rayie)**
 
 ---
 
@@ -38,7 +38,7 @@ I'm an Information Technology graduate based in **Kenya**, passionate about buil
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **transport-management-system** | **Transport Management System | github.com/jrayie/transport-management-system | A web-based fleet management        system for Muranga County civil servants. Manages drivers, mechanics, and supervisors with repair request workflows, invoice      approval, and repair tracking. Built to reduce government vehicle downtime. | Django, Bootstrap, SQLite, HTML/CSS/JS |
+| **transport-management-system** | Transport Management System | github.com/jrayie/transport-management-system | A web-based fleet management        system for Muranga County civil servants. Manages drivers, mechanics, and supervisors with repair request workflows, invoice      approval, and repair tracking. Built to reduce government vehicle downtime. | Django, Bootstrap, SQLite, HTML/CSS/JS |
 
 > 🔗 **Click on each project name above to view the full code and README.**
 
